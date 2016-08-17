@@ -1,3 +1,2 @@
 # hello-world
-gljsdkljs'gdhknbn
-jdfhpkjgsdfkojnvsjdfvsef
+This is the readme file for the hello world project.
